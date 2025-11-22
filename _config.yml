@@ -27,9 +27,9 @@ author:
   name             : "Jiaqi Liu"
   pronouns         : # example: "she/her"  
   bio: |
-  Zhejiang University, Senior Undergrad in Automation
-  Zhejiang University, Incoming Ph.D. Student
-  Research Focus: Agent Security
+    Zhejiang University, Senior Undergrad in Automation
+    Zhejiang University, Incoming Ph.D. Student
+    Research Focus: Agent Security
   location         : "Beijing"
   employer         : "Zhejiang University"
   uri              : # URL
