@@ -26,11 +26,14 @@ author:
   avatar           : "profile.png"
   name             : "Jiaqi Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio: |
+  Zhejiang University, Senior Undergrad in Automation
+  Zhejiang University, Incoming Ph.D. Student
+  Research Focus: Agent Security
+  location         : "Beijing"
+  employer         : "Zhejiang University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "3220101461@zju.edu.cn" 
 
   # Academic websites
   academia         : # URL
