@@ -13,10 +13,10 @@ My research focuses on Agent Safety, covering the security of the underlying mod
 
 # Education
 
-- **2022 – 2026**  
+- **2022 – 2026(expected)**  
   **Zhejiang University**  
   Bachelor of Engineering in Automation  
 
-- **2026 – Present**  
+- **2026 – (expected)**  
   **Zhejiang University** ⨯ **TeleAI** *(Joint Program)*  
   Ph.D. Candidate in Electronic and Information Engineering  
